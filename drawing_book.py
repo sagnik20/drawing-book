@@ -7,7 +7,7 @@ class Paint(object):
     DEFAULT_COLOR = 'black'
     def __init__(self):
         self.root = Tk()
-        self.root.title('Drawing Book by Sagnik')
+        self.root.title('Sketch Book by Sagnik')
         self.root.geometry('800x450')
         self.root.maxsize(1600,900)
         self.root.minsize(500,300)
