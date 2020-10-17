@@ -5,6 +5,8 @@
 
 This Project uses `Tkinter` library of python to build a Paint like application.
 
+![Sample](https://github.com/sagnik20/drawing-book/blob/master/sample/drawing_book.png?raw=true)
+
 ### :heart: Found this project useful?
 
 If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
