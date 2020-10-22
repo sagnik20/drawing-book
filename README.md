@@ -15,7 +15,7 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ### Sagnik Chattopadhyaya
 
-Microsoft Student Partner, Student, Working for betterment of all, Competitive Coder, YouTuber
+Gold Microsoft Student Ambassador, Student, Working for betterment of all, Competitive Coder, YouTuber
 
 <a href="https://twitter.com/sagnik_20"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/twitter.svg?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/in/sagnik-chattopadhyaya/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/linkedin.svg?raw=true" width="60"></a>
